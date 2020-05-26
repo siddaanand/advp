@@ -1,0 +1,5 @@
+hello World
+hello 1 
+hello 2
+hello 3
+basics af computer pgrmng
